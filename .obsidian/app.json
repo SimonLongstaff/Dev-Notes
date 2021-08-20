@@ -1,0 +1,14 @@
+{
+  "readableLineLength": false,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "webpack",
+    "Javascript",
+    "javascript",
+    "config",
+    "bundler",
+    "bundlers",
+    "captalisied"
+  ],
+  "alwaysUpdateLinks": true
+}

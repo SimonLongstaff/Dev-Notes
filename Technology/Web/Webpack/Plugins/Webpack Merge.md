@@ -1,0 +1,1 @@
+Allows the merging of config files
