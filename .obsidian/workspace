@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Technology/Web/React/Code Features/useReducer.md",
+            "file": "Technology/Web/React/Code Features/State.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Web/React/Code Features/useReducer.md",
+                "file": "Technology/Web/React/Code Features/State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d127128eeb66a34d",
   "lastOpenFiles": [
-    "useReducer.md",
-    "Technology/Web/React/React.md",
-    "Technology/Web/React/Code Features/UseEffect.md",
     "Technology/Web/React/Code Features/State.md",
+    "Create React app.md",
+    "Technology/Web/React/Set Up.md",
+    "Technology/Web/React/React.md",
     "Technology/Web/React/Code Features/Array Deconstruction.md",
-    "Technology/Web/React/Elements/Props.md",
-    "Technology/Web/React/Elements/React Components.md",
-    "Technology/Web/React/Elements/JSX.md",
+    "Technology/Web/React/Code Features/UseEffect.md",
+    "Technology/Web/React/Code Features/useReducer.md",
     "Technology/Web/React/Elements/Creation & Rendering.md",
-    "UseEffect.md"
+    "Index.md",
+    "Technology/Web/Web Technologies.md"
   ]
 }
