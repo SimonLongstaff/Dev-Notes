@@ -8,7 +8,13 @@
     "config",
     "bundler",
     "bundlers",
-    "captalisied"
+    "captalisied",
+    "destructuring",
+    "keyExtractor",
+    "renderItem",
+    "renderItem",
+    "customizable"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

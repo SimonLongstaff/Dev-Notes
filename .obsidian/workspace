@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d127128eeb66a34d",
+        "id": "2d73c22c9b4d3687",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Technology/Web/React/Code Features/State.md",
+            "file": "Technology/Web/React/React Native/React Native.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Web/React/Code Features/State.md",
+                "file": "Technology/Web/React/React Native/React Native.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d127128eeb66a34d",
+  "active": "2d73c22c9b4d3687",
   "lastOpenFiles": [
-    "Technology/Web/React/Code Features/State.md",
-    "Create React app.md",
-    "Technology/Web/React/Set Up.md",
-    "Technology/Web/React/React.md",
-    "Technology/Web/React/Code Features/Array Deconstruction.md",
-    "Technology/Web/React/Code Features/UseEffect.md",
-    "Technology/Web/React/Code Features/useReducer.md",
-    "Technology/Web/React/Elements/Creation & Rendering.md",
-    "Index.md",
-    "Technology/Web/Web Technologies.md"
+    "Technology/Web/React/React Native/React Native.md",
+    "State Setup Questions.md",
+    "Technology/Web/React/React Native/Components/TouchableOpacity.md",
+    "Technology/Web/React/React Native/Components/Button.md",
+    "Technology/Web/React/React Native/Components/FlatList.md",
+    "TouchableOpacity.md",
+    "Button.md",
+    "FlatList.md",
+    "Technology/Web/React/Create React app.md",
+    "Technology/Web/React/React Native/Built In Components/Stack Navigator.md"
   ]
 }

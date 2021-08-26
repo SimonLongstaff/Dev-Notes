@@ -1,4 +1,7 @@
 # React Components
+
+![[Pasted image 20210825092652.png]]
+
 ## Arguments
 - [[Props]]
 
